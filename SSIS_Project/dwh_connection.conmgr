@@ -1,0 +1,6 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts" DTS:ObjectName="dwh_connection" DTS:DTSID="{A6F4307B-D2DC-447F-9594-E7A6ED761B57}" DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager DTS:ConnectRetryCount="1" DTS:ConnectRetryInterval="5" DTS:ConnectionString="Data Source=DESKTOP-N3V4H0F\MSSQLSERVER12;Initial Catalog=dw_gravity_books;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-SSIS_Project-{A6F4307B-D2DC-447F-9594-E7A6ED761B57}DESKTOP-N3V4H0F\MSSQLSERVER12.dw_gravity_books;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
